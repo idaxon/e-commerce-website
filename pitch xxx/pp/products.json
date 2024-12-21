@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Web Designing Services",
+      "image": "https://img.freepik.com/premium-vector/web-designer_1165-34.jpg?semt=ais_hybrid",
+      "rating": 4,
+      "link": "checkout.html"
+    },
+    {
+      "name": "App Development Services",
+      "image": "https://img.freepik.com/premium-vector/app-development-isolated-cartoon-concept-developers-create-layout-mobile-applications_9209-6691.jpg",
+      "rating": 3,
+      "link": "checkout.html"
+    },
+    {
+      "name": "Machine Learning Services",
+      "image": "https://cloud.google.com/static/products/ai/ml-comic-1/assets/panel_01_1x.png",
+      "rating": 4.5,
+      "link": "checkout.html"
+    },
+    {
+      "name": "Artificial Intelligence Services",
+      "image": "https://png.pngtree.com/png-vector/20240319/ourlarge/pngtree-artificial-intelligence-logo-png-image_11963272.png",
+      "rating": 2,
+      "link": "checkout.html"
+    },
+    {
+      "name": "Cloud Computing Services",
+      "image": "https://st.depositphotos.com/1056394/1746/v/950/depositphotos_17462319-stock-illustration-vector-cloud-computing-and-applications.jpg",
+      "rating": 3,
+      "link": "checkout.html"
+    },
+    {
+      "name": "UI/UX Designing Services",
+      "image": "https://media.licdn.com/dms/image/D4D12AQG7SuFX2OwraA/article-cover_image-shrink_720_1280/0/1686205631390?e=2147483647&v=beta&t=j6u1YnN9yhKpQ-eVV7gpYyGw95h4qUBzH1yZP4la4NI",
+      "rating": 2.5,
+      "link": "checkout.html"
+    },
+    {
+      "name": "Cyber Security Services",
+      "image": "https://cdn.vectorstock.com/i/500p/13/48/cybersecurity-threat-cartoon-vector-22551348.jpg",
+      "rating": 4.5,
+      "link": "checkout.html"
+    },
+    {
+      "name": "For More Services",
+      "image": "https://img.freepik.com/premium-vector/asset-young-businessman-cartoon-character-looking-confused_746688-133.jpg",
+      "rating": 2,
+      "link": "checkout.html"
+    }
+  ]
+  
